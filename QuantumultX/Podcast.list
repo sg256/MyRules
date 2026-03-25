@@ -1,4 +1,4 @@
-# applepodcasts
+# ApplePodcast
 DOMAIN-SUFFIX,podcasts.apple.com,PROXY
 DOMAIN-SUFFIX,play.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,PROXY
