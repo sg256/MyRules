@@ -1,0 +1,18 @@
+# NAME: Supercell Proxy Domains
+# NOTE: 登录/账号/CDN 等域名，策略指向代理节点
+# UPDATED: 2026-05-17
+
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,supercellgames.com
+DOMAIN-SUFFIX,supercell.net
+DOMAIN-SUFFIX,brawlstars.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,supercellcdn.com
+DOMAIN-SUFFIX,supercell.helpshift.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firebase.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,fcm.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com
